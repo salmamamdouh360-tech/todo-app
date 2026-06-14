@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "289699688566",
+    "project_id": "flutter-bf075",
+    "storage_bucket": "flutter-bf075.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289699688566:android:2e10b8e251ea29087a2f57",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRohGKmjEZAKtyubYihqI66w-gXvD7w4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289699688566:android:8a0a8a2d67a6a15a7a2f57",
+        "android_client_info": {
+          "package_name": "com.example.nti_course_2026_learing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRohGKmjEZAKtyubYihqI66w-gXvD7w4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289699688566:android:83b7bae90c6c06c67a2f57",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRohGKmjEZAKtyubYihqI66w-gXvD7w4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289699688566:android:ee9a9d4d6a73389c7a2f57",
+        "android_client_info": {
+          "package_name": "com.example.todo_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRohGKmjEZAKtyubYihqI66w-gXvD7w4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
